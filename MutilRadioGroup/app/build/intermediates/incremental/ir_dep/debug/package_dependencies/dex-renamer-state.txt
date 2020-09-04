@@ -1,0 +1,4 @@
+#Fri Sep 04 10:22:14 CST 2020
+base.0=/Users/mac/android_case/mutilRedio/android_radiogroup_MutilRadioGroup/MutilRadioGroup/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
